@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675939073562",
+    "firebase_url": "https://brauereivz-3fc3e.firebaseio.com",
+    "project_id": "brauereivz-3fc3e",
+    "storage_bucket": "brauereivz-3fc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675939073562:android:47fa974a0b9befbd",
+        "android_client_info": {
+          "package_name": "eu.alldev.brauereivz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675939073562-emhitjll0o61mfvr8urncncs4o7dab1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.alldev.brauereivz",
+            "certificate_hash": "6c81f501cb14906ecaa005680578973cdc554d28"
+          }
+        },
+        {
+          "client_id": "675939073562-go0fd0g8ktju5r9o70ote3bcn9q8vlun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHI8O4p1axmcavKNF8Lk_lETzwIqaVu1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675939073562-go0fd0g8ktju5r9o70ote3bcn9q8vlun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
